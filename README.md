@@ -1,4 +1,4 @@
-## midiSeq() Design
+## qwertySeq() Design
 
 #### By Matt Dowdney & William Chu
 
